@@ -517,8 +517,11 @@ footer{
     }
     
 }
-#disqus_thread{margin-top: 20px;
-margin-bottom: 20px;}
+#disqus_thread{margin: 20px ;
+    color:white;
+    background-color: rgba(1,1,1,0.7);
+
+}
 
 
 
